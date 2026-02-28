@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="regextest.vcxproj" Id="7385d319-8d6e-467a-be94-9f3afe5bf47b" />
+</Solution>
